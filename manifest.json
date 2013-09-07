@@ -1,0 +1,12 @@
+{
+  "name": "Run Script",
+  "devMode": true,
+  "path": "~/Applications/script.kdapp",
+  "source": {
+    "blocks": {
+      "app": {
+        "files": ["./script.coffee"]
+      }
+    }
+  }
+}
